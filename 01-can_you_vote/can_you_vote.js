@@ -14,8 +14,7 @@ const legalAge = 18;
 }
 
 // define a variable for your age
-
+let myAge = 30;
 // call the function and see if you can vote
 
-canIVote(30)
-canIVote(16)
+canIVote(myAge)
